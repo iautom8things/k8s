@@ -36,7 +36,7 @@ The package can be installed by adding `k8s` to your list of dependencies in `mi
 ```elixir
 def deps do
   [
-    {:k8s, "~> 0.5"}
+    {:k8s, "~> 0.5.0"}
   ]
 end
 ```
